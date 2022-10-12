@@ -1,6 +1,6 @@
-##  Experiment/learn to build saas at scale and various stuff related to agriculture 🚀🚜
+##  Experiment/learn to build saas at scale for agriculture 🚀🚜
 
-Coming soon ⌛
+⌛ Coming soon 
 <!--
 
 **Here are some ideas to get you started:**
